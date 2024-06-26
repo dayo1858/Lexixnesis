@@ -1,0 +1,6 @@
+git config --global user.name “Dayor”
+
+git config --global user.email “trynicco@gmail.com”
+
+https://stackoverflow.com/questions/47465644/github-remote-permission-denied
+https://stackoverflow.com/questions/17857283/permission-denied-error-on-github-push/43672761#43672761
